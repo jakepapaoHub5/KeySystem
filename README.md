@@ -1,3 +1,3 @@
-local KeyA = "GNKeQaGF"
+local KeyA = "tiktok"
 
 return keyA
